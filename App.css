@@ -6,3 +6,16 @@
     background-color:#387478;
     
 }
+
+.buttons {
+    display: flex;
+    justify-content: center;
+    gap: 30px; 
+}
+
+.button {
+    font-size: 15px;
+    padding: 14px 30px;
+    border: 2px solid gray;
+    font-weight: bold;
+}
